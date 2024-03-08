@@ -50,7 +50,7 @@
 
 ## 附录
 ### 附录1：如何进入fastbootd模式？
-- 首先下载fastboot enhance，github链接https://github.com/libxzr/FastbootEnhance/releases，下载里面的release.zip，打开界面如图
+- 首先下载fastboot enhance，github链接 https://github.com/libxzr/FastbootEnhance/releases ，下载里面的release.zip，打开界面如图
 - 如果你是开机状态，那么执行adb reboot fastboot，然后fastboot enhance将可以看到该设备，双击后重启到fastbootd模式。如果你无法正常开机，那么再次执行大佬的bat脚本unlock_emmc.bat，执行结束后将会自动进入fastbootd模式
 
 ### 附录2：如何刷系统完整包（官网11.5.06系统）
@@ -77,5 +77,5 @@
 
 仅供学习参考，如果有不对的地方，还请各位大佬多多指教！
 
-（中兴远航41，畅行50与小鲜50原理上也可以解锁bl，有兴趣的大佬可以自主参考https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader/wiki/AddSupportToModel进行尝试）
+（中兴远航41，畅行50与小鲜50原理上也可以解锁bl，有兴趣的大佬可以自主参考 https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader/wiki/AddSupportToModel 进行尝试）
 （另：大佬的工具已经支持解锁大量展锐设备bl，有兴趣的朋友可以去大佬的github看看点个star）
