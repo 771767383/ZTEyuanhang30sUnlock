@@ -8,8 +8,8 @@
 - 学会并可以执行cmd命令，你最好已经学会在windows终端中执行cmd命令。
 
 ## BL解锁步骤
-1. 下载并解压windows端展锐驱动https://androiddatahost.com/dsa6h，找到你的系统对应版本文件夹，然后找到DriverSetup.exe以及DPInst64.exe安装（linux端及驱动安装失败的，请参考大佬的github链接）
-2. 下载解锁脚本，我上传了蓝奏云蓝奏云链接https://wwi.lanzoup.com/iQJx01qpioni。关闭杀毒软件然后解压
+1. 下载并解压windows端展锐驱动 https://androiddatahost.com/dsa6h ，找到你的系统对应版本文件夹，然后找到DriverSetup.exe以及DPInst64.exe安装（linux端及驱动安装失败的，请参考大佬的github链接）
+2. 下载解锁脚本，我上传了蓝奏云蓝奏云链接 https://wwi.lanzoup.com/iQJx01qpioni 。关闭杀毒软件然后解压
 3. 手机关机，数据线连接电脑
 4. 找到unlock_emmc.bat，使用管理员权限打开，其会等待30s
 5. 长按手机音量减，手机会进入下载模式（电脑应该会听到有设备连接的声音），此时手机黑屏是正常情况
